@@ -1,2 +1,3 @@
-# prueba-tecnica-1
-Primera prueba técnica (Lógica)
+# Final Facing Direction after spiral walk of matrix
+To run execute:
+  python ./main.py
